@@ -77,6 +77,61 @@ I believe in a life balanced between high-stakes technology and the grounding of
 
 ---
 
+### 📂 Complete Project Index
+
+A comprehensive catalog of my open-source work.
+
+| Project | Description | Language |
+| :--- | :--- | :--- |
+| **[5-card-poker](https://github.com/charles-forsyth/5-card-poker)** | A full-stack 5-Card Draw Poker game with AI opponents, real-time chat, and a web-based interface. | Python |
+| **[Advanced-Grant-Explorer](https://github.com/charles-forsyth/Advanced-Grant-Explorer)** | TypeScript-based tool for exploring and managing grant funding data. | TypeScript |
+| **[AI-Misc-Simulations-Scripts](https://github.com/charles-forsyth/AI-Misc-Simulations-Scripts)** | Collection of miscellaneous AI simulation scripts and experiments. | HTML |
+| **[astropost](https://github.com/charles-forsyth/astropost)** | A professional, rich-text Gmail CLI tool for sending Markdown/HTML emails. | Python |
+| **[atmos](https://github.com/charles-forsyth/atmos)** | A comprehensive CLI tool for atmospheric and astronomical data analysis. | Python |
+| **[botbs-transcript-pipeline](https://github.com/charles-forsyth/botbs-transcript-pipeline)** | Pipeline for processing and analyzing bot transcripts. | Python |
+| **[chatgpt-api-whisper...](https://github.com/charles-forsyth/chatgpt-api-whisper-api-voice-assistant)** | Voice-to-voice therapeutic assistant using Whisper and GPT-4. | Python |
+| **[Datum](https://github.com/charles-forsyth/Datum)** | A high-performance local data management utility. | Python |
+| **[Declutter-AI](https://github.com/charles-forsyth/Declutter-AI)** | AI Studio made app for digital decluttering. | TypeScript |
+| **[deep-research](https://github.com/charles-forsyth/deep-research)** | Production-ready CLI for Google's Gemini Deep Research Agent. | Python |
+| **[dice](https://github.com/charles-forsyth/dice)** | Simple Python-based dice rolling utility. | Python |
+| **[director-agent](https://github.com/charles-forsyth/director-agent)** | Early prototype of the "Director" pattern for agent orchestration. | Python |
+| **[dungeon-draw](https://github.com/charles-forsyth/dungeon-draw)** | Procedural map generation tool for RPGs. | Python |
+| **[DungeonMind](https://github.com/charles-forsyth/DungeonMind)** | Narrative AI Game Master assistant. | TypeScript |
+| **[Gemini-Sentinel-Argus](https://github.com/charles-forsyth/Gemini-Sentinel-Argus)** | AI-native monitoring agent for system and network health. | Python |
+| **[generate-gemini-voice](https://github.com/charles-forsyth/generate-gemini-voice)** | CLI for generating voice audio using Gemini. | Python |
+| **[generate-music](https://github.com/charles-forsyth/generate-music)** | Real-time AI music generation CLI using Vertex AI Lyria. | Python |
+| **[generate-tts](https://github.com/charles-forsyth/generate-tts)** | Professional CLI for Google Gemini's native 2.5 TTS model. | Python |
+| **[generate-veo-video](https://github.com/charles-forsyth/generate-veo-video)** | CLI interface for Google's Veo 3.1 AI Video model. | Python |
+| **[lumina](https://github.com/charles-forsyth/lumina)** | Light and visual effects generation tool. | Python |
+| **[mirage](https://github.com/charles-forsyth/mirage)** | AI Atmospheric Experience Generator. | Python |
+| **[MyVideoGenApp](https://github.com/charles-forsyth/MyVideoGenApp)** | Effortless video generator powered by Veo. | TypeScript |
+| **[nexus](https://github.com/charles-forsyth/nexus)** | (Private) The "Cyborg" Central Nervous System for UCR Research Computing. | HTML |
+| **[nordhaven](https://github.com/charles-forsyth/nordhaven)** | Project related to Nordhaven context. | - |
+| **[python-blockchain...](https://github.com/charles-forsyth/python-blockchain-toolkit)** | Educational blockchain and file notary tool. | Python |
+| **[q-ai-link](https://github.com/charles-forsyth/q-ai-link)** | Reinforcement Learning experiment with Q-Learning agents in an RPG. | Python |
+| **[radar](https://github.com/charles-forsyth/radar)** | Real-time data visualization and monitoring dashboard. | HTML |
+| **[radio-free-pi](https://github.com/charles-forsyth/radio-free-pi)** | Shell scripts for Raspberry Pi radio broadcasting. | Shell |
+| **[rcdfront](https://github.com/charles-forsyth/rcdfront)** | Frontend for Research Computing Dashboard. | TypeScript |
+| **[roam](https://github.com/charles-forsyth/roam)** | CLI tool for roaming and exploration? | Python |
+| **[scrape](https://github.com/charles-forsyth/scrape)** | Web scraping utility. | - |
+| **[Skywalker](https://github.com/charles-forsyth/Skywalker)** | GCP Audit & Reporting Tool for UCR Research Computing. | Python |
+| **[Squad-Logic](https://github.com/charles-forsyth/Squad-Logic)** | Core logic engine for autonomous agent swarms. | - |
+| **[Squad-Logic-Battle](https://github.com/charles-forsyth/Squad-Logic-Battle)** | AI Bot battle simulation. | TypeScript |
+| **[squad-manager](https://github.com/charles-forsyth/squad-manager)** | The Autonomous Agency. Recursive Gemini skill for deploying AI squads. | - |
+| **[SwarmCLI](https://github.com/charles-forsyth/SwarmCLI)** | Multi-agent consensus engine for debating topics. | Python |
+| **[tax-commander](https://github.com/charles-forsyth/tax-commander)** | Custom CLI system for municipal tax collection. | Python |
+| **[text-mud](https://github.com/charles-forsyth/text-mud)** | Autonomous Game Dev. MUD RPG built by AI Squad. | Python |
+| **[TPU-Demos](https://github.com/charles-forsyth/TPU-Demos)** | HPC TPU demos for science disciplines. | Python |
+| **[UCR-HPC-Job-Gallery](https://github.com/charles-forsyth/UCR-HPC-Job-Gallery)** | Knowledge base of 55+ verified HPC workflows. | - |
+| **[UCR-RCD](https://github.com/charles-forsyth/UCR-RCD)** | UCR Research Computing CRM. | - |
+| **[ufo9](https://github.com/charles-forsyth/ufo9)** | Scripts on ufo9. | - |
+| **[ursa-dsp](https://github.com/charles-forsyth/ursa-dsp)** | Data Security Plan management tool. | Python |
+| **[vidius](https://github.com/charles-forsyth/vidius)** | Video processing tool. | Python |
+| **[weather](https://github.com/charles-forsyth/weather)** | Precision terminal-based weather reporting. | Python |
+| **[Xenon-AI-Particle...](https://github.com/charles-forsyth/Xenon-AI-Particle-Evolution)** | AI Particle Evolution simulation. | TypeScript |
+
+---
+
 ### 📊 GitHub Insights
 
 ![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charles-forsyth&show_icons=true&theme=radical)
