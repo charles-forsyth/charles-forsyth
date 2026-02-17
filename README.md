@@ -23,11 +23,24 @@ I am the pioneer of **Agentic DevOps**—a methodology for orchestrating squads 
 | Project | The Innovation |
 | :--- | :--- |
 | **[squad-manager](https://github.com/charles-forsyth/squad-manager)** | **The Autonomous Agency.** A recursive **Multi-Agent System** that deploys specialized AI squads to build, test, and ship software from a single prompt. *It built its own code and documentation.* |
+| **[uma (Ursa Major Ask)](https://github.com/UCR-Research-Computing/uma)** | **The Visionary Precursor.** Built years before the mainstream AI CLI explosion, `uma` was a pioneering attempt to integrate LLMs directly into the Linux shell. It allowed researchers to control their environment and query HPC systems using natural language. |
 | **[agent_social_network](https://github.com/charles-forsyth/agent_social_network)** | **Emergent AI Behavior.** A simulator for **Computational Social Science** where autonomous personas debate, form persistent memories, and evolve. A study in **LLM Cognitive Architectures**. |
 | **[UCR-HPC-Job-Gallery](https://github.com/charles-forsyth/UCR-HPC-Job-Gallery)** | **Automated Science.** A knowledge base of 55+ verified HPC workflows, transforming raw scripts into "Standard Model" scientific knowledge via **Automated Knowledge Engineering**. |
-| **[deep-research](https://github.com/charles-forsyth/deep-research)** | **Autonomous Research Agent.** A production-grade AI analyst that conducts recursive, multi-step research, synthesizes complex data streams, and streams its "Chain of Thought" in real-time. |
-| **[Skywalker](https://github.com/charles-forsyth/Skywalker)** | **AI-Driven Compliance.** An automated auditing engine for Google Cloud, ensuring security and efficiency across large-scale infrastructure using **Policy-as-Code**. |
-| **[nexus](https://github.com/charles-forsyth/nexus)** | **The Cyborg CNS.** *(Private)* The central nervous system for UCR Research Computing, linking Researcher ID, Cloud Resources, and Grant data for **Predictive Support**. |
+| **[deep-research](https://github.com/charles-forsyth/deep-research)** | **Autonomous Research Agent.** A production-grade AI analyst that conducts recursive, multi-step research and synthesizes complex data streams in real-time. |
+
+---
+
+## 🏛️ UCR Research Computing Ecosystem
+
+Selected enterprise tools for managing university-scale research infrastructure.
+
+| Project | Description |
+| :--- | :--- |
+| **[gemini-video-analyzer](https://github.com/UCR-Research-Computing/gemini-video-analyzer)** | A research-grade tool for multimodal video analysis using Gemini 1.5 Pro to extract complex scientific insights. |
+| **[Skywalker](https://github.com/charles-forsyth/Skywalker)** | **AI-Driven Compliance.** An automated auditing engine for Google Cloud, ensuring security and efficiency across large-scale infrastructure. |
+| **[rad-lab](https://github.com/UCR-Research-Computing/rad-lab)** | Infrastructure-as-Code (Terraform) for deploying secure research environments on GCP. |
+| **[UCR-Ursa-Major-Slurm...](https://github.com/UCR-Research-Computing/UCR-Ursa-Major-Slurm-Job-Scripts)** | The foundational collection of Slurm job scripts that power the campus cluster. |
+| **[nexus](https://github.com/charles-forsyth/nexus)** | *(Private)* The "Cyborg" CNS, linking Researcher Identity with Cloud Resources for proactive support. |
 
 ---
 
