@@ -23,7 +23,7 @@ The core systems that define my architectural style.
 
 | Project | The Innovation |
 | :--- | :--- |
-| **[squad-manager](https://github.com/charles-forsyth/squad-manager)** | **The Autonomous Agency.** A recursive skill for Gemini CLI that deploys specialized AI squads. The "Director Mode" orchestrates a full team (Architect, Grunt, Sentinel, DevOps) to build, test, and ship complete applications from a single prompt. *It built itself.* |
+| **[squad-manager](https://github.com/charles-forsyth/squad-manager)** | **The Autonomous Agency.** While the world talks about AI Agents, I built the system that manages them. A recursive Gemini skill that deploys specialized squads (Architect, Grunt, Gatekeeper) to build, test, and ship complete software autonomously. *It built its own code, wrote its own docs, and marketed itself.* The future of engineering isn't writing code; it's directing the squad. |
 | **[agent_social_network](https://github.com/charles-forsyth/agent_social_network)** | **The AI Social Ecosystem.** A TUI-based simulator where autonomous personas debate, form persistent memories, and evolve in real-time. Supports both local (Ollama) and cloud (Gemini) backends. |
 | **[deep-research](https://github.com/charles-forsyth/deep-research)** | **The Autonomous Analyst.** A CLI that transforms Gemini into a recursive researcher. It doesn't just search; it reads files, synthesizes complex topics, and streams its "thinking process" live. |
 | **[nexus](https://github.com/charles-forsyth/nexus)** | **The Cyborg CNS.** *(Private)* The central nervous system for UCR Research Computing. It links Researcher Identity (CRM) with Cloud Resources (UMI) and Grants, enabling proactive, data-driven support. |
