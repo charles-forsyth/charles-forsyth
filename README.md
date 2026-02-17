@@ -8,11 +8,11 @@ I don't just write code; I design **Self-Correcting Ecosystems**.
 
 ---
 
-### 🔮 The Vision: "The Skywalker Workflow"
+### 🔮 The Vision:
 
 I believe the future of engineering is **Agentic DevOps**. I have pioneered a development methodology where human architects direct squads of specialized AI agents (Architects, Grunts, Gatekeepers) to build, test, and release software autonomously.
 
-*   **Philosophy:** "Do or do not. There is no try." (Code must be perfect before commit).
+*   **Philosophy:** Code must be perfect before commit.
 *   **Method:** Strict architectural design, automated "Gauntlet" testing, and security auditing by adversarial AI.
 
 ---
