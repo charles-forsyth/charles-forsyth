@@ -53,6 +53,7 @@ Robust tools for managing data, cloud resources, and bureaucracy.
 
 | Project | Value Proposition | Tech |
 | :--- | :--- | :--- |
+| **[d20](https://github.com/charles-forsyth/d20)** | **Agent-Built Tool.** A professional Python CLI for dice rolling (NdS format). *Built entirely by the Skywalker Squad v4.0 from a single prompt.* | `Python` `uv` |
 | **[radar](https://github.com/charles-forsyth/radar)** | **Real-Time Viz.** A minimalist, pipe-based data visualization dashboard for monitoring real-time data streams in the browser. | `HTML` `Python` |
 | **[tax-commander](https://github.com/charles-forsyth/tax-commander)** | **Audit-Proof Ops.** A custom system for municipal tax collection, proving that government bureaucracy can be modernized and automated. | `Python` `SQLite` |
 | **[ursa-dsp](https://github.com/charles-forsyth/ursa-dsp)** | **Compliance as Code.** Manages Data Security Plans (DSP) for regulated research (HIPAA/CUI), turning policy into verifyable artifacts. | `Python` |
@@ -69,6 +70,7 @@ Experiments in logic, physics, and emergent behavior.
 
 | Project | Value Proposition | Tech |
 | :--- | :--- | :--- |
+| **[text-mud](https://github.com/charles-forsyth/text-mud)** | **Autonomous Game Dev.** A full MUD RPG (Haunted Castle) built, tested, and iterated upon by the AI Squad without human coding. Features Save/Load and Combat. | `Python` `Agentic` |
 | **[q-ai-link](https://github.com/charles-forsyth/q-ai-link)** | **Reinforcement Learning.** An agent that learns to play a hazardous RPG from scratch using Tabular Q-Learning. | `Python` `RL` |
 | **[Squad-Logic-Battle](https://github.com/charles-forsyth/Squad-Logic-Battle)** | **Agent Arena.** A simulation where autonomous bot squads compete using strategic algorithms. | `TypeScript` |
 | **[Xenon-AI-Particle...](https://github.com/charles-forsyth/Xenon-AI-Particle-Evolution)** | **Emergent Physics.** A particle evolution simulation where behavior is governed by AI-driven rules. | `TypeScript` |
