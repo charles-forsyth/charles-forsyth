@@ -23,6 +23,7 @@ The core systems that define my architectural style.
 
 | Project | The Innovation |
 | :--- | :--- |
+| **[squad-manager](https://github.com/charles-forsyth/squad-manager)** | **The Autonomous Agency.** A recursive skill for Gemini CLI that deploys specialized AI squads. The "Director Mode" orchestrates a full team (Architect, Grunt, Sentinel, DevOps) to build, test, and ship complete applications from a single prompt. *It built itself.* |
 | **[deep-research](https://github.com/charles-forsyth/deep-research)** | **The Autonomous Analyst.** A CLI that transforms Gemini into a recursive researcher. It doesn't just search; it reads files, synthesizes complex topics, and streams its "thinking process" live. |
 | **[nexus](https://github.com/charles-forsyth/nexus)** | **The Cyborg CNS.** *(Private)* The central nervous system for UCR Research Computing. It links Researcher Identity (CRM) with Cloud Resources (UMI) and Grants, enabling proactive, data-driven support. |
 | **[SwarmCLI](https://github.com/charles-forsyth/SwarmCLI)** | **The Hive Mind.** A multi-agent consensus engine where simulated personas (The Skeptic, The Optimist, The Data Scientist) debate topics to generate balanced, high-quality outputs. |
