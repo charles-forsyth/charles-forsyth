@@ -11,9 +11,9 @@ I build the digital nervous systems that power modern research. My career is a j
 
 As the **Director of Research Computing at UC Riverside** and former **Chairman of the UC Research IT Committee**, I orchestrate the collective efforts of elite technology professionals to advance the research landscape across the entire UC system. I specialize in bridging the gap between high-level institutional strategy and hands-on technical execution.
 
-### 🔮 The "Skywalker Workflow"
-I am a pioneer of **Agentic DevOps**. I have developed a professional methodology where human architects direct squads of specialized AI agents to build, test, and release production-grade software autonomously.
-*   **The Mission:** "Do or do not. There is no try." (Engineering excellence via absolute automation).
+### 🔮 Directed Agentic Engineering (DAE)
+I am a pioneer of **Agentic DevOps**. I have developed a high-rigor methodology where human architects direct squads of specialized AI agents to design, implement, and verify production-grade software autonomously.
+*   **The Philosophy:** Absolute automation through a multi-agent "Director" pattern, ensuring software is born tested, audited, and release-ready.
 *   **The Tool:** [squad-manager](https://github.com/charles-forsyth/squad-manager) — My flagship system that orchestrates these autonomous teams.
 
 ---
