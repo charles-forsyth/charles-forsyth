@@ -125,7 +125,6 @@ A comprehensive catalog of my open-source work.
 | **[UCR-HPC-Job-Gallery](https://github.com/charles-forsyth/UCR-HPC-Job-Gallery)** | Knowledge base of 55+ verified HPC workflows. | - |
 | **[UCR-RCD](https://github.com/charles-forsyth/UCR-RCD)** | UCR Research Computing CRM. | - |
 | **[ufo9](https://github.com/charles-forsyth/ufo9)** | Scripts on ufo9. | - |
-| **[ursa-dsp](https://github.com/charles-forsyth/ursa-dsp)** | Data Security Plan management tool. | Python |
 | **[vidius](https://github.com/charles-forsyth/vidius)** | Video processing tool. | Python |
 | **[weather](https://github.com/charles-forsyth/weather)** | Precision terminal-based weather reporting. | Python |
 | **[Xenon-AI-Particle...](https://github.com/charles-forsyth/Xenon-AI-Particle-Evolution)** | AI Particle Evolution simulation. | TypeScript |
