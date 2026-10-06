@@ -1,137 +1,59 @@
-# Charles "Chuck" Forsyth ⚓🏛️🌲
+# Charles (Chuck) Forsyth
 
-### Director of Research Computing & Architect of Agentic Ecosystems
-**AI Systems Architect | Autonomous Agents | LLM Orchestration | Strategic Leader**
+**Director of Research Computing, UC Riverside | AI and HPC leader | Past Chair, UC Research IT Committee | Navy veteran**
 
-I build the digital nervous systems that power modern research. My career operates at the bleeding edge where **High-Performance Computing (HPC)** converges with **Autonomous AI Agents** and **Generative AI**. I specialize in designing self-correcting, multi-agent systems that solve enterprise-scale problems.
+I run research computing at UC Riverside: the cloud, cluster, storage, security and AI services behind about 1,000 researchers in 22 colleges and schools. I lead it as an executive and I still build it, now with a team of AI agents working under written specs, test gates and human approval.
 
----
-
-## 🏛️ Professional Stature
-
-As the **Director of Research Computing at UC Riverside** and former **Chairman of the UC Research IT Committee**, I define the strategy for next-generation research infrastructure. I bridge the gap between institutional leadership and the frontier of **Artificial Intelligence**.
-
-### 🔮 Directed Agentic Engineering (DAE)
-I am the pioneer of **Agentic DevOps**—a methodology for orchestrating squads of specialized AI agents to autonomously design, build, test, and release software.
-*   **The Mission:** Replacing manual coding with **AI-Driven Engineering**.
-*   **The Tool:** [squad-manager](https://github.com/charles-forsyth/squad-manager) — My flagship system for orchestrating autonomous developer squads.
+[Website and CV](https://charles-forsyth.github.io/) | [LinkedIn](https://www.linkedin.com/in/chuckforsyth/) | [AI + HPC Field Manual](https://charles-forsyth.github.io/handbook/) | [Field Notes](https://charles-forsyth.github.io/papers/) | [ORCID](https://orcid.org/0000-0003-4872-0296)
 
 ---
 
-## 🌟 Flagship AI Innovations
+## What I build
 
-| Project | The Innovation |
+| Project | What it does |
 | :--- | :--- |
-| **[squad-manager](https://github.com/charles-forsyth/squad-manager)** | **The Autonomous Agency.** A recursive **Multi-Agent System** that deploys specialized AI squads to build, test, and ship software from a single prompt. *It built its own code and documentation.* |
-| **[uma (Ursa Major Ask)](https://github.com/UCR-Research-Computing/uma)** | **The Visionary Precursor.** Built years before the mainstream AI CLI explosion, `uma` was a pioneering attempt to integrate LLMs directly into the Linux shell. It allowed researchers to control their environment and query HPC systems using natural language. |
-| **[agent_social_network](https://github.com/charles-forsyth/agent_social_network)** | **Emergent AI Behavior.** A simulator for **Computational Social Science** where autonomous personas debate, form persistent memories, and evolve. A study in **LLM Cognitive Architectures**. |
-| **[UCR-HPC-Job-Gallery](https://github.com/charles-forsyth/UCR-HPC-Job-Gallery)** | **Automated Science.** A knowledge base of 55+ verified HPC workflows, transforming raw scripts into "Standard Model" scientific knowledge via **Automated Knowledge Engineering**. |
-| **[deep-research](https://github.com/charles-forsyth/deep-research)** | **Autonomous Research Agent.** A production-grade AI analyst that conducts recursive, multi-step research and synthesizes complex data streams in real-time. |
+| **[ursa-bifrost](https://github.com/UCR-Research-Computing/ursa-bifrost)** | Lets any AI assistant (Claude, Gemini, Codex, Hermes) work a Slurm cluster safely: one Go binary that is both an MCP server and a CLI, with typed, audited, read-mostly tools, Google sign-in and two-step approval for anything that spends money. |
+| **[nrp-mcp](https://github.com/UCR-Research-Computing/nrp-mcp)** | Run research on the National Research Platform's Nautilus GPU cluster from your AI assistant, with NRP policy built in and single-use approval. |
+| **[deep-research](https://github.com/charles-forsyth/deep-research)** | CLI and self-hosted workstation for Gemini Deep Research: cited reports, notebooks, briefs and audio, plus a Lab that checks a report's claims as real jobs on the HPC cluster. |
+| **[ultra-workstation](https://github.com/charles-forsyth/ultra-workstation)** | A keyboard-driven AI operator desk: email, calendar, tickets, Slack, a work ledger and the cluster in one screen, with AI drafts under two-step approval. |
+| **[Skywalker](https://github.com/charles-forsyth/Skywalker)** | Audit engine for UCR's research cloud: scans hundreds of Google Cloud projects for security risk, idle resources and AI spend; also a read-only MCP server. |
+| **[UCR-HPC-Job-Gallery](https://github.com/charles-forsyth/UCR-HPC-Job-Gallery)** | 49 tested Slurm workflows across seven colleges and schools, from AlphaFold to the social sciences, with the index and gallery generated from the scripts. |
+| **[squad-manager](https://github.com/charles-forsyth/squad-manager)** | Directed Agentic Engineering: squads of specialized AI agents (architect, test writer, DevOps, developer, security gatekeeper, user acceptance) that design, build, test and release software. |
+| **[TPU-Demos](https://github.com/charles-forsyth/TPU-Demos)** | JAX/Flax demos for science disciplines on Google Cloud TPU v5e. |
+| **[gemini-video-analyzer](https://github.com/UCR-Research-Computing/gemini-video-analyzer)** | Multimodal video analysis of research footage with Gemini. |
+| **[rds-cli](https://github.com/charles-forsyth/rds-cli)** | Command-line client for UCR's CephRDS petabyte research storage. |
+
+Private or internal: **Nexus**, the research relationship knowledge graph and OAuth MCP server Research Computing runs on (943 researchers, 176 cloud projects, 41 role-gated tools); the **UCR AI Gateway**, one governed endpoint to Gemini, Claude and open models with per-lab budgets; the **Ursa Major** elastic Slurm cluster on Google Cloud.
 
 ---
 
-## 🏛️ UCR Research Computing Ecosystem
+## Building with AI since GPT-2
 
-Selected enterprise tools for managing university-scale research infrastructure.
-
-| Project | Description |
+| Year | Work |
 | :--- | :--- |
-| **[gemini-video-analyzer](https://github.com/UCR-Research-Computing/gemini-video-analyzer)** | A research-grade tool for multimodal video analysis using Gemini 1.5 Pro to extract complex scientific insights. |
-| **[Skywalker](https://github.com/charles-forsyth/Skywalker)** | **AI-Driven Compliance.** An automated auditing engine for Google Cloud, ensuring security and efficiency across large-scale infrastructure. |
-| **[rad-lab](https://github.com/UCR-Research-Computing/rad-lab)** | Infrastructure-as-Code (Terraform) for deploying secure research environments on GCP. |
-| **[UCR-Ursa-Major-Slurm...](https://github.com/UCR-Research-Computing/UCR-Ursa-Major-Slurm-Job-Scripts)** | The foundational collection of Slurm job scripts that power the campus cluster. |
-| **[nexus](https://github.com/charles-forsyth/nexus)** | *(Private)* The "Cyborg" CNS, linking Researcher Identity with Cloud Resources for proactive support. |
+| 2019 | TensorFlow and PyTorch GPU pods for UCR researchers on the National Research Platform ([examples](https://github.com/UCR-Research-Computing/Nautilus-Cluster-Example-Yaml-Files)) |
+| 2020 | GPT-2 jobs on NVIDIA RTX 8000 GPUs in the Nautilus cluster; deep learning notebooks for researchers |
+| 2022 | Stable Diffusion and Disco Diffusion notebooks for researchers, before ChatGPT launched ([notebooks](https://github.com/UCR-Research-Computing/Useful-Google-Colab-Notebooks)) |
+| 2023 | [Ursa Major Ask](https://github.com/UCR-Research-Computing/ursa_major_ask): a GPT-3.5 assistant that writes and runs research code and Slurm scripts |
+| 2024 | [uma](https://github.com/UCR-Research-Computing/uma): an LLM in the Linux shell for HPC users |
+| 2025 | Multimodal video analysis, multi-agent simulations ([SwarmCLI](https://github.com/charles-forsyth/SwarmCLI), [LLM-Bot_Social_Chat](https://github.com/UCR-Research-Computing/LLM-Bot_Social_Chat)), generative media CLIs ([Veo video](https://github.com/charles-forsyth/generate-veo-video), [Lyria music](https://github.com/charles-forsyth/generate-music), [Gemini TTS](https://github.com/charles-forsyth/generate-tts)) |
+| 2026 | MCP servers for HPC, research systems and the National Research Platform; the UCR AI Gateway; Directed Agentic Engineering |
 
 ---
 
-## 🛠️ The Technical Arsenal
+## Leadership
 
-**Core Expertise:** Agentic Workflows, LLM Integration, HPC Architecture, Cloud Infrastructure (GCP/AWS), and Enterprise Storage.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Generative AI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- Director of Research Computing, UC Riverside (2023-present); Associate Director (2019-2023)
+- Lead Ursa Major, UCR's research partnership with Google Cloud, announced in 2023 as a first-of-its-kind subscription service
+- Co-PI, NSF CC* award 2346636 ($498,553): CephRDS, 2.09 PB of research storage on the 100 Gbps Science DMZ, shared with the National Research Platform
+- Chair (2022-2024) and Vice Chair (2021-2022), UC Research IT Committee
+- UCR Campus Champion, NSF XSEDE and ACCESS; NSF grant reviewer; UCR representative to CaRCC, CASC and ACI-REF
+- Before UCR: lead HPC architect for Corning's R&D clusters; my own IT consultancy; electronics technician aboard the USS Lake Champlain
 
 ---
 
-## 🌲 Beyond the Command Line
+## Stack
 
-I believe in a life balanced between high-stakes technology and the grounding of the natural world.
+AI and agents (MCP, Gemini, Claude, open-weight models, Vertex AI) | HPC (Slurm, PBS, MPI, InfiniBand, Lustre, Ceph) | Cloud (Google Cloud, AWS, Kubernetes, Terraform) | Python, Go, Rust, Bash
 
-*   **Camp Tioga:** I reside at "Camp Tioga" in Pennsylvania, managing a portfolio of physical assets with data-driven rigor.
-*   **The Outdoors:** Avid kayaker and sailor (Skipper of the *Arcturus*).
-*   **Geocaching:** Active as **ClanForsyth** since 2012.
-*   **Philosophy:** A student of strategic thinking and earth-based spirituality.
-*   **Family:** Supported by my wife, Laylla, our family, and our three cats.
-
----
-
-## 🎖️ Education & Service
-*   **United States Navy:** Advanced Electronics Technician (Radar & Comms).
-*   **Purdue Global:** B.S. in Information Technology (3.89 GPA).
-*   **Honors:** Golden Key, Alpha Beta Kappa, Iota Sigma Tau.
-
----
-
-### 📂 Complete Project Index
-
-A comprehensive catalog of my open-source work.
-
-| Project | Description | Language |
-| :--- | :--- | :--- |
-| **[5-card-poker](https://github.com/charles-forsyth/5-card-poker)** | A full-stack 5-Card Draw Poker game with AI opponents, real-time chat, and a web-based interface. | Python |
-| **[Advanced-Grant-Explorer](https://github.com/charles-forsyth/Advanced-Grant-Explorer)** | TypeScript-based tool for exploring and managing grant funding data. | TypeScript |
-| **[AI-Misc-Simulations-Scripts](https://github.com/charles-forsyth/AI-Misc-Simulations-Scripts)** | Collection of miscellaneous AI simulation scripts and experiments. | HTML |
-| **[astropost](https://github.com/charles-forsyth/astropost)** | A professional, rich-text Gmail CLI tool for sending Markdown/HTML emails. | Python |
-| **[atmos](https://github.com/charles-forsyth/atmos)** | A comprehensive CLI tool for atmospheric and astronomical data analysis. | Python |
-| **[botbs-transcript-pipeline](https://github.com/charles-forsyth/botbs-transcript-pipeline)** | Pipeline for processing and analyzing bot transcripts. | Python |
-| **[chatgpt-api-whisper...](https://github.com/charles-forsyth/chatgpt-api-whisper-api-voice-assistant)** | Voice-to-voice therapeutic assistant using Whisper and GPT-4. | Python |
-| **[Datum](https://github.com/charles-forsyth/Datum)** | A high-performance local data management utility. | Python |
-| **[Declutter-AI](https://github.com/charles-forsyth/Declutter-AI)** | AI Studio made app for digital decluttering. | TypeScript |
-| **[deep-research](https://github.com/charles-forsyth/deep-research)** | Production-ready CLI for Google's Gemini Deep Research Agent. | Python |
-| **[dice](https://github.com/charles-forsyth/dice)** | Simple Python-based dice rolling utility. | Python |
-| **[director-agent](https://github.com/charles-forsyth/director-agent)** | Early prototype of the "Director" pattern for agent orchestration. | Python |
-| **[dungeon-draw](https://github.com/charles-forsyth/dungeon-draw)** | Procedural map generation tool for RPGs. | Python |
-| **[DungeonMind](https://github.com/charles-forsyth/DungeonMind)** | Narrative AI Game Master assistant. | TypeScript |
-| **[Gemini-Sentinel-Argus](https://github.com/charles-forsyth/Gemini-Sentinel-Argus)** | AI-native monitoring agent for system and network health. | Python |
-| **[generate-gemini-voice](https://github.com/charles-forsyth/generate-gemini-voice)** | CLI for generating voice audio using Gemini. | Python |
-| **[generate-music](https://github.com/charles-forsyth/generate-music)** | Real-time AI music generation CLI using Vertex AI Lyria. | Python |
-| **[generate-tts](https://github.com/charles-forsyth/generate-tts)** | Professional CLI for Google Gemini's native 2.5 TTS model. | Python |
-| **[generate-veo-video](https://github.com/charles-forsyth/generate-veo-video)** | CLI interface for Google's Veo 3.1 AI Video model. | Python |
-| **[lumina](https://github.com/charles-forsyth/lumina)** | Light and visual effects generation tool. | Python |
-| **[mirage](https://github.com/charles-forsyth/mirage)** | AI Atmospheric Experience Generator. | Python |
-| **[MyVideoGenApp](https://github.com/charles-forsyth/MyVideoGenApp)** | Effortless video generator powered by Veo. | TypeScript |
-| **[nexus](https://github.com/charles-forsyth/nexus)** | (Private) The "Cyborg" Central Nervous System for UCR Research Computing. | HTML |
-| **[nordhaven](https://github.com/charles-forsyth/nordhaven)** | Project related to Nordhaven context. | - |
-| **[python-blockchain...](https://github.com/charles-forsyth/python-blockchain-toolkit)** | Educational blockchain and file notary tool. | Python |
-| **[q-ai-link](https://github.com/charles-forsyth/q-ai-link)** | Reinforcement Learning experiment with Q-Learning agents in an RPG. | Python |
-| **[radar](https://github.com/charles-forsyth/radar)** | Real-time data visualization and monitoring dashboard. | HTML |
-| **[radio-free-pi](https://github.com/charles-forsyth/radio-free-pi)** | Shell scripts for Raspberry Pi radio broadcasting. | Shell |
-| **[rcdfront](https://github.com/charles-forsyth/rcdfront)** | Frontend for Research Computing Dashboard. | TypeScript |
-| **[roam](https://github.com/charles-forsyth/roam)** | CLI tool for roaming and exploration? | Python |
-| **[scrape](https://github.com/charles-forsyth/scrape)** | Web scraping utility. | - |
-| **[Skywalker](https://github.com/charles-forsyth/Skywalker)** | GCP Audit & Reporting Tool for UCR Research Computing. | Python |
-| **[Squad-Logic](https://github.com/charles-forsyth/Squad-Logic)** | Core logic engine for autonomous agent swarms. | - |
-| **[Squad-Logic-Battle](https://github.com/charles-forsyth/Squad-Logic-Battle)** | AI Bot battle simulation. | TypeScript |
-| **[squad-manager](https://github.com/charles-forsyth/squad-manager)** | The Autonomous Agency. Recursive Gemini skill for deploying AI squads. | - |
-| **[SwarmCLI](https://github.com/charles-forsyth/SwarmCLI)** | Multi-agent consensus engine for debating topics. | Python |
-| **[tax-commander](https://github.com/charles-forsyth/tax-commander)** | Custom CLI system for municipal tax collection. | Python |
-| **[text-mud](https://github.com/charles-forsyth/text-mud)** | Autonomous Game Dev. MUD RPG built by AI Squad. | Python |
-| **[TPU-Demos](https://github.com/charles-forsyth/TPU-Demos)** | HPC TPU demos for science disciplines. | Python |
-| **[UCR-HPC-Job-Gallery](https://github.com/charles-forsyth/UCR-HPC-Job-Gallery)** | Knowledge base of 55+ verified HPC workflows. | - |
-| **[UCR-RCD](https://github.com/charles-forsyth/UCR-RCD)** | UCR Research Computing CRM. | - |
-| **[ufo9](https://github.com/charles-forsyth/ufo9)** | Scripts on ufo9. | - |
-| **[vidius](https://github.com/charles-forsyth/vidius)** | Video processing tool. | Python |
-| **[weather](https://github.com/charles-forsyth/weather)** | Precision terminal-based weather reporting. | Python |
-| **[Xenon-AI-Particle...](https://github.com/charles-forsyth/Xenon-AI-Particle-Evolution)** | AI Particle Evolution simulation. | TypeScript |
-
----
-
-### 📊 GitHub Insights
-
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charles-forsyth&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-forsyth&layout=compact&theme=radical)
+Sandbox of browser experiments (live hand tracking, RL game agents, an HPC workflow simulator): [lordivxx.github.io](https://lordivxx.github.io/)
