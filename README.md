@@ -4,7 +4,7 @@
 
 I run research computing at UC Riverside: the cloud, cluster, storage, security and AI services behind about 1,000 researchers in 22 colleges and schools. I lead it as an executive and I still build it, now with a team of AI agents working under written specs, test gates and human approval.
 
-[Website and CV](https://charles-forsyth.github.io/) | [LinkedIn](https://www.linkedin.com/in/chuckforsyth/) | [AI + HPC Field Manual](https://charles-forsyth.github.io/handbook/) | [Field Notes](https://charles-forsyth.github.io/papers/) | [ORCID](https://orcid.org/0000-0003-4872-0296)
+[Website and CV](https://charles-forsyth.github.io/) | [LinkedIn](https://www.linkedin.com/in/charles-forsyth-73643319/) | [AI + HPC Field Manual](https://charles-forsyth.github.io/handbook/) | [Field Notes](https://charles-forsyth.github.io/papers/) | [Citable software (DOIs)](https://charles-forsyth.github.io/software/) | [ORCID](https://orcid.org/0000-0003-4872-0296)
 
 ---
 
@@ -20,10 +20,16 @@ I run research computing at UC Riverside: the cloud, cluster, storage, security 
 | **[UCR-HPC-Job-Gallery](https://github.com/charles-forsyth/UCR-HPC-Job-Gallery)** | 49 tested Slurm workflows across seven colleges and schools, from AlphaFold to the social sciences, with the index and gallery generated from the scripts. |
 | **[squad-manager](https://github.com/charles-forsyth/squad-manager)** | Directed Agentic Engineering: squads of specialized AI agents (architect, test writer, DevOps, developer, security gatekeeper, user acceptance) that design, build, test and release software. |
 | **[TPU-Demos](https://github.com/charles-forsyth/TPU-Demos)** | JAX/Flax demos for science disciplines on Google Cloud TPU v5e. |
+| **[ClusterWand](https://github.com/UCR-Research-Computing/clusterwand)** | The public fork of ursa-bifrost: the same safe, typed MCP tools for any Slurm cluster over your own SSH login. |
+| **[Telescope](https://github.com/charles-forsyth/telescope)** | Read-only Mac app for a research cloud fleet: spend, budgets, access and exposure, by way of the Skywalker MCP server. |
+| **[Field Journal](https://github.com/charles-forsyth/field-journal)** | Offline-first Android field notebook: camera rangefinder, topo maps, acoustic spectrogram and night-red display. |
+| **[Mirage](https://github.com/charles-forsyth/mirage)** | Orchestrates AI image, video, voice and music tools into finished videos and audio shows. |
 | **[gemini-video-analyzer](https://github.com/UCR-Research-Computing/gemini-video-analyzer)** | Multimodal video analysis of research footage with Gemini. |
-| **[rds-cli](https://github.com/charles-forsyth/rds-cli)** | Command-line client for UCR's CephRDS petabyte research storage. |
+| **[rds-cli](https://github.com/UCR-Research-Computing/rds-cli)** | Command-line client for UCR's CephRDS petabyte research storage. |
 
-Private or internal: **Nexus**, the research relationship knowledge graph and OAuth MCP server Research Computing runs on (943 researchers, 176 cloud projects, 41 role-gated tools); the **UCR AI Gateway**, one governed endpoint to Gemini, Claude and open models with per-lab budgets; the **Ursa Major** elastic Slurm cluster on Google Cloud.
+Every public tool here has a Zenodo DOI; the full list is on the [Citable software](https://charles-forsyth.github.io/software/) page.
+
+Private or internal: **Nexus**, the research relationship knowledge graph and OAuth MCP server Research Computing runs on (972 researchers, 176 cloud projects); the **UCR AI Gateway**, one governed endpoint to Gemini, Claude and open models with per-lab budgets; the **Ursa Major** elastic Slurm cluster on Google Cloud.
 
 ---
 
